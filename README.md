@@ -9,11 +9,11 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <img src="assets/Shaman_Normal V2 PNG.png" alt="logo" width="200" height="auto" />
+  <h1>Imaproshaman</h1>
   
   <p>
-    An awesome README template for your projects! 
+    A collection of everything about me! 
   </p>
   
   
@@ -292,9 +292,10 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+- Imaproshaman on Discord
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+- Imaproshaman@gmail.com for serious business inquiries only
+ 
 
 
 <!-- Acknowledgments -->
@@ -302,8 +303,6 @@ Project Link: [https://github.com/Louis3797/awesome-readme-template](https://git
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+ - [Shields.io](https://shields.io/)
 
