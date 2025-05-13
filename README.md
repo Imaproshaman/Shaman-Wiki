@@ -136,13 +136,6 @@ Maybe you can mention me or this repo in the acknowledgements too
   </ul>
 </details>
 
-<!-- Features -->
-### Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
 <!-- Color Reference -->
 ### Color Reference
 
@@ -152,99 +145,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 | Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-
-
-<!-- Env Variables -->
-### Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-<!-- Getting Started -->
-## Getting Started
-
-<!-- Prerequisites -->
-### Prerequisites
-
-This project uses Yarn as package manager
-
-```bash
- npm install --global yarn
-```
-
-<!-- Installation -->
-### Installation
-
-Install my-project with npm
-
-```bash
-  yarn install my-project
-  cd my-project
-```
-   
-<!-- Running Tests -->
-### Running Tests
-
-To run tests, run the following command
-
-```bash
-  yarn test test
-```
-
-<!-- Run Locally -->
-### Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-
-<!-- Deployment -->
-### Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
-```
-
-
-<!-- Usage -->
-## Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 <!-- Roadmap -->
 ## Roadmap
@@ -259,11 +159,6 @@ function App() {
 <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
 
 
 <!-- Code of Conduct -->
@@ -294,15 +189,19 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 - Imaproshaman on Discord
 
-- Imaproshaman@gmail.com for serious business inquiries only
+- Imaproshaman@gmail.com (Serious business inquiries only.)
  
 
 
 <!-- Acknowledgments -->
-## Acknowledgements
+## Special Thanks
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+Various utilities that helped make this repository possible:
 
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
- - [Shields.io](https://shields.io/)
+ - Repository Template: [Readme Template](https://github.com/othneildrew/Best-README-Template)
+ - Badges: [Shields.io](https://shields.io/)
+
+ - Something
+ - Something 2
+ - Something 3
 
