@@ -13,7 +13,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Imaproshaman</h1>
   
   <p>
-    A collection of everything about me! 
+    A collection of everything about me!
   </p>
   
   
@@ -25,12 +25,6 @@ Maybe you can mention me or this repo in the acknowledgements too
   <a href="">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
   <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
     <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
   </a>
@@ -40,92 +34,16 @@ Maybe you can mention me or this repo in the acknowledgements too
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://docs.google.com/document/d/1RH55q3X5uhFxtlgN1dKNOLq9uJ2o2Ipbgq3EPvkHUyI/edit?usp=sharing">FAQ</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://docs.google.com/document/d/1LD7mu0Ml9thNuFrSj1gFDRH0UUeI3n_Jf8Kq7QF_hg0/edit?usp=sharing">Stream Setup</a>
   </h4>
 </div>
 
-<br />
-
-<!-- Table of Contents -->
-# Table of Contents
-
-- [About the Project](#about-the-project)
-  * [Screenshots](#screenshots)
-  * [Tech Stack](#tech-stack)
-  * [Features](#features)
-  * [Color Reference](#color-reference)
-  * [Environment Variables](#environment-variables)
-- [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-  * [Running Tests](#running-tests)
-  * [Run Locally](#run-locally)
-  * [Deployment](#deployment)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-  * [Code of Conduct](#code-of-conduct)
-- [FAQ](#faq)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-  
-
-<!-- About the Project -->
-## About the Project
-
-
-<!-- Screenshots -->
-### Screenshots
-
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
-
+<h1></h1>
 
 <!-- TechStack -->
 ### Tech Stack
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>DevOps</summary>
@@ -146,43 +64,10 @@ Maybe you can mention me or this repo in the acknowledgements too
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
-<!-- Roadmap -->
-## Roadmap
-
-* [x] Todo 1
-* [ ] Todo 2
-
-
-<!-- Contributing -->
-## Contributing
-
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
-
-
-<!-- Code of Conduct -->
-### Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- FAQ -->
-## FAQ
-
-- Question 1
-
-  + Answer 1
-
-- Question 2
-
-  + Answer 2
-
-
 <!-- License -->
 ## License
 
 Distributed under the no License. See LICENSE.txt for more information.
-
 
 <!-- Contact -->
 ## Contact
@@ -190,8 +75,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 - Imaproshaman on Discord
 
 - Imaproshaman@gmail.com (Serious business inquiries only.)
- 
-
 
 <!-- Acknowledgments -->
 ## Special Thanks
@@ -201,7 +84,7 @@ Various utilities that helped make this repository possible:
  - Repository Template: [Readme Template](https://github.com/othneildrew/Best-README-Template)
  - Badges: [Shields.io](https://shields.io/)
 
- - Something
+ - Something 1
  - Something 2
  - Something 3
 
