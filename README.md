@@ -28,8 +28,6 @@
 
 </details>
 
-This is a list of all of the software that I currently use. (Taken from my [FAQ][url-faq])
-
 <details><summary>PC Software</summary>
   
 - Timed With: [LiveSplit][url-livesplit] / In Game Time / (Real Time if the game doesn't have an autosplitter.)
@@ -52,15 +50,13 @@ This is a list of all of the software that I currently use. (Taken from my [FAQ]
 
 ## Hardware
 
-This is a list of all of the hardware that I currently use. (Taken from my [Stream Setup Doc][url-setup])
-
 <details><summary>PC Hardware</summary>
 
 - PC: [IPASON AMD Ryzen 5 5600G][url-pc] (GeForce RTX 3060) | Windows 11
 - Monitor (Main): [Asus Tuf VG249Q1A][url-monitor1]
 - Monitor (Secondary): [Dell 2208WFPT][url-monitor2]
 - Webcam: [Logitech HD Pro Webcam C920][url-webcam]
-- Mic: [Logitech Blue Yeti][url-mic] (In OBS I have 3 audio filters to make it sound less windy. [Here's the guide I used.][url-micguide])
+- Mic: [Logitech Blue Yeti][url-mic] (In OBS I have 3 audio filters to make it sound less windy. [(Here's the guide I used.)][url-micguide])
 
 - Headphones: [Audiotechnica M40x][url-headphones]
 - Mouse: [Razer Naga Trinity][url-mouse]
@@ -93,13 +89,11 @@ This is a list of all of the hardware that I currently use. (Taken from my [Stre
 
 </details>
 
-<!-- <details><summary>Console Hardware - Dropdown</summary>\
-
-</details>
-
 -->
 
 ## Credits
+
+[...]
 
 <!--
 
@@ -122,7 +116,7 @@ This is a list of all of the hardware that I currently use. (Taken from my [Stre
 [url-faq]: <https://docs.google.com/document/d/1RH55q3X5uhFxtlgN1dKNOLq9uJ2o2Ipbgq3EPvkHUyI/view>
 [url-setup]: <https://docs.google.com/document/d/1LD7mu0Ml9thNuFrSj1gFDRH0UUeI3n_Jf8Kq7QF_hg0/view>
 
-<!-- URLs - Stream Tools -->
+<!-- URLs - Stream Software -->
 [url-dressroom]: <https://projects.fewfre.com/a801/transformice/dressroom/>
 [url-tfm]: <https://www.transformice.com>
 [url-tfmsteam]: <https://store.steampowered.com/app/335240/Transformice/>
