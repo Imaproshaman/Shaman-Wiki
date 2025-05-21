@@ -4,7 +4,7 @@
 
 <img src="assets/Shaman Normal V2 PNG.png" width="15%" height="15%">
 
-# Imaproshaman
+# 》Imaproshaman《
 
 </div>
 
@@ -103,7 +103,7 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 - Keyboard Overlay (Rhythm Games): [KeysPerSecond][url-kps]
 - Controller Overlay: [Open Joystick Display (sidschingis' Updated Fork)][url-ojd] | [Hori Taiko Drum][url-taikodrum] (Mapped to keyboard controls with JoyToKey.)
 - Controller To Keyboard Controls: [JoyToKey][url-jtk]
-- Discord VC Overlay: [Discord’s Streamkit for OBS][obsdiscord]
+- Discord VC Overlay: [Discord’s Streamkit for OBS][url-obsdiscord]
 
 - osu! Setup: [osu! Profile][url-osu]
 - Geometry Dash Overlay: [GDMegaOverlay][url-gdm]
@@ -146,7 +146,7 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 - Timed With: [Floating Speedrun Timer][phonetimer] / In-Game-Time / [LiveSplit][url-livesplit]
 - Recorded With: Internal recorder
 - Played On: [Samsung Galaxy S24][url-phone]
-- Games Played Through: [Google Play Store][playstore]
+- Games Played Through: [Google Play Store][url-playstore]
 - Recorded At: 60 fps, (unsure about bitrate), 720p(?)
 
 </details>
