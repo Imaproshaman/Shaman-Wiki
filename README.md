@@ -4,9 +4,7 @@
 
 <img src="assets/Shaman Normal V2 PNG.png" width="15%" height="15%">
 
-# 》Imaproshaman《
-
-
+# Imaproshaman
 
 </div>
 
