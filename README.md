@@ -6,9 +6,73 @@
 
 # Imaproshaman
 
-> [Cool Thing Here]
+> <ins> Everything about me can be found here! </ins>
 
 </div>
+
+## FAQ (Q&A)
+
+> ### What should we call you?
+I go by Shaman online. I made a Transformice account and made the "nickname" something easy to remember because I didn't realize that the nickname was actually the screen name. At first it was "silly" with 5 L's. (sillllly, if you want to look for it.)  So my second account was named "Imaproshaman" because 12 year old me thought that people would know I was "good at the game by default". I’ve been playing since the 16th of June, 2011.
+
+> ### How old are you and where are you from?
+February 10th, 1999. Oregon, US.
+
+> ### Is that what your voice "actually" sounds like/are you a girl?
+I’m just me. I go by they/them pronouns.
+
+> ### When did you start streaming?
+I streamed as far back as somewhere around early/pre-2016, started actively streaming from around 2018. What I always tell people is, if I enjoy playing, then someone might enjoy watching. Streams are really whenever and for however long. I don't take it very seriously. If I force myself to do it and adhere to a schedule, then it would feel like a job. That's not very fun for me.
+
+> ### Why did you start speedrunning?
+Casually, I’ve been replaying games since I was a kid since I rarely got new games except on special occasions, like a birthday or a holiday. So I just played what I had. Around the latter half of 2017, I joined the [Mirror’s Edge Catalyst Speedrunning Discord server][url-mec] after being referred to it by a friend, [SteveGlowPlunk][url-steveglowplunk]. Then I bought the game Refunct on Steam and had 100% the achievements. They added some more and one of them required beating the game under 4 minutes, which meant that I had to learn the basic Any% route. I loved how fun it was so I kept doing it.
+
+> ### I have an osu! related question?
+Everything about me relating to osu!, including my setup, can be found on [my profile][url-osu].
+
+> ### Why don’t you speedrun/play X/why are you doing X thing Y way?
+There’s probably a reason for it but I’ll try my best to answer it if you ask.
+
+> ### What’s your opinion on/favorite X?
+Feel free to ask anything like this but expect a passionately detailed response to any of these kinds of questions.
+
+> ### Why don’t you have facecam?
+It isn’t necessary for the enjoyment of my content and I don't want to show myself like that. I can list several examples of successful streamers who don’t even use it. I'm okay with showing a handcam though and I think more people should. Especially for rhythm games and speedrunning. I always think those are really interesting.
+
+> ### What marathons have you been a part of?
+- [WHaMathon][url-whamathon] (2nd, 3rd & 4th - 2018, 2019, 2020)
+- [Kick Off The Summer!][url-kots] (1st - 2019)
+- [12 Hour Challenge][url-12hc] (11th - 2020)
+
+> ### Misc.
+- [Mirror's Edge Catalyst Mod][url-mecmod]
+
+## Social Links
+
+<details><summary>Social Links</summary>
+
+- FAQ (You’re here)
+- Stream Setup (Down Below)
+
+- [Discord Server][url-discord] (Contact me @ Imaproshaman)
+- [YouTube][url-yt]
+- [Twitch][url-twitch]
+
+- [Steam][url-steam]
+- [Steam Hunters][url-steamhunters] (Main Steam Achievements)
+- [True Steam Achievements][url-steamtrue] (Alternate Steam Achievements)
+- [Speedruns][url-src]
+
+- [Spotify Playlist][url-spotifyplaylist] (Main Playlist)
+- [Last.FM][url-lastfm] (Music History)
+- [Band History Spreadsheet][url-spotifybands] (Discographies)
+- [Rate Your Music][url-rym] (Music Ratings)
+- [Letterboxd][url-letterboxd] (Film Ratings)
+
+- [osu!][url-osu]
+- [Hypixel Skyblock Stats][url-skyblock]
+
+</details>
 
 ## Software
 
@@ -22,7 +86,7 @@
 
 - Twitch Commands From: [Nightbot][url-nightbot], [StreamElements][url-streamelements] and [osu!np][url-osunp] (osu! Now Playing)
 - Twitch Alerts/Donations Managed Through: [StreamElements][url-streamelements]
-- Twitch Panels From: [Nerd or Die.com][url-nerdordie] and edited with [FireAlpaca][url-firealpaca]
+- Twitch Panels From: [Nerd or Die][url-nerdordie] and edited with [FireAlpaca][url-firealpaca]
 - Stream/LiveSplit Sound Effects From: [The Portal Wiki][url-portalwiki], from [ALL PORTAL SOUNDS+SONGS][url-ytportalsoundsall] and lastly from [Portal 2 Sound Effects - Button Positive][url-ytportalsoundsbutton]
 - LiveSplit Sounds Backup: (Download.) [WIP]
 
@@ -32,18 +96,18 @@
   
 - Timed With: [LiveSplit][url-livesplit] / In Game Time / (Real Time if the game doesn't have an autosplitter.)
 - Recorded With: [OBS Studio][url-obs] (Local / Streamed)
-- Games Played Through: [Steam][url-steam] / [EA App][url-ea] for Mirror’s Edge Catalyst) | [Firefox][url-firefox] (Web) / [Flashpoint][url-flashpoint] (Local Web/Flash swf. file launcher) | [BlueStacks][[url-bluestacks] (Android Emulator)
+- Games Played Through: [Steam][url-steam] / [EA App][url-ea] for Mirror’s Edge Catalyst) | [Firefox][url-firefox] (Web) / [Flashpoint][url-flashpoint] (Local Web/Flash swf. file launcher) | [BlueStacks][url-bluestacks] (Android Emulator)
 - Recorded At (Stream): 60 fps, 5000 bitrate (1080p)
 - Recorded At (Local): 60 fps, 5000 bitrate (1080p)
 - Videos Edited With: [Adobe Premiere Pro CC][url-premiere] (2024)
 - Thumbnails/Images Edited With: [FireAlpaca][url-firealpaca]
-- Keyboard Overlay (Speedruns): [Nohboard (Rewrite Version)][[url-nohboard]
+- Keyboard Overlay (Speedruns): [Nohboard (Rewrite Version)][url-nohboard]
 - Keyboard Overlay (Rhythm Games): [KeysPerSecond][url-kps]
 - Controller Overlay: [Open Joystick Display (sidschingis' Updated Fork)][url-ojd] | [Hori Taiko Drum][url-taikodrum] (Mapped to keyboard controls with JoyToKey.)
 - Controller To Keyboard Controls: [JoyToKey][url-jtk]
 - Discord VC Overlay: [Discord’s Streamkit for OBS][obsdiscord]
 
-- osu! Setup: [osu! Profile][url-osuprofile]
+- osu! Setup: [osu! Profile][url-osu]
 - Geometry Dash Overlay: [GDMegaOverlay][url-gdm]
 
 </details>
@@ -79,7 +143,7 @@
 
 </details>
 
-<details><summary>Mobile (Android Hardware)</summary>
+<details><summary>Mobile (Android) Hardware</summary>
 
 - Timed With: [Floating Speedrun Timer][phonetimer] / In-Game-Time / [LiveSplit][url-livesplit]
 - Recorded With: Internal recorder
@@ -89,32 +153,37 @@
 
 </details>
 
--->
-
 ## Credits
 
 [...]
 
-<!--
-
-> [!NOTE]
->
-> **[1]**: Note 1
->
-> **[2]**: Note 2
-
-<!-- Files -->
-<!-- [file-mods]: <INCLUDED-MODS.md>
-
-
-<!-- Images -->
-<!-- [img-cf]: <https://img.shields.io/curseforge/dt/396246?style=for-the-badge&label=CurseForge&color=orange&logoColor=orange&labelColor=black&logo=curseforge>
-
--->
-
-<!-- URLs -->
+<!-- URLs - Main -->
 [url-faq]: <https://docs.google.com/document/d/1RH55q3X5uhFxtlgN1dKNOLq9uJ2o2Ipbgq3EPvkHUyI/view>
 [url-setup]: <https://docs.google.com/document/d/1LD7mu0Ml9thNuFrSj1gFDRH0UUeI3n_Jf8Kq7QF_hg0/view>
+
+[url-discord]: <https://discord.gg/ZMWvVTG>
+[url-yt]: <https://www.youtube.com/@Imaproshaman>
+[url-twitch]: <https://www.twitch.tv/imaproshaman>
+
+[url-steamhunters]: <https://steamhunters.com/id/Imaproshaman/games>
+[url-steamtrue]: <https://truesteamachievements.com/gamer/Imaproshaman>
+[url-src]: <https://www.speedrun.com/user/Imaproshaman>
+
+[url-spotifyplaylist]: <https://open.spotify.com/playlist/17UqAVEwZeFMnl6hH0k1yz>
+[url-lastfm]: <https://www.last.fm/user/Imaproshaman>
+[url-spotifybands]: <https://docs.google.com/spreadsheets/d/1UfVvjYeZOpz9CNgToTkRmdzdlkB_nb6986OxDAW9lxk/view>
+[url-rym]: <https://rateyourmusic.com/~Imaproshaman>
+[url-letterboxd]: <https://boxd.it/58I5B>
+
+[url-skyblock]: <https://sky.shiiyu.moe/stats/Imaproshaman/Coconut>
+
+[url-whamathon]: <https://www.twitch.tv/mobilespeedrun>
+[url-kots]: <https://www.twitch.tv/kickoffthesummer>
+[url-12hc]: <https://discord.gg/invite/12HourChallenge>
+
+[url-mec]: <https://discord.gg/012yZfNtL6swfNOO5>
+[url-steveglowplunk]: <https://www.youtube.com/@SteveGlowplunk>
+[url-mecmod]: <http://www.nexusmods.com/mirrorsedgecatalyst/mods/75>
 
 <!-- URLs - Stream Software -->
 [url-dressroom]: <https://projects.fewfre.com/a801/transformice/dressroom/>
@@ -147,7 +216,7 @@
 [url-jtk]: <https://joytokey.net/>
 [url-taikodrum]: <https://www.amazon.com/dp/B07D1H7CW3>
 
-[url-osuprofile]: <https://osu.ppy.sh/users/11090576>
+[url-osu]: <https://osu.ppy.sh/users/11090576>
 [url-gdm]: <https://github.com/maxnut/GDMegaOverlay>
 
 <!-- URLs - PC Hardware -->
