@@ -51,22 +51,22 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 
 - FAQ (You’re here)
 - Stream Setup (Down Below)
-
+-
 - [Discord Server][url-discord] (Contact me @ Imaproshaman)
 - [YouTube][url-yt]
 - [Twitch][url-twitch]
-
+-
 - [Steam][url-steam]
 - [Steam Hunters][url-steamhunters] (Main Steam Achievements)
 - [True Steam Achievements][url-steamtrue] (Alternate Steam Achievements)
 - [Speedruns][url-src]
-
+-
 - [Spotify Playlist][url-spotifyplaylist] (Main Playlist)
 - [Last.FM][url-lastfm] (Music History)
 - [Band History Spreadsheet][url-spotifybands] (Discographies)
 - [Rate Your Music][url-rym] (Music Ratings)
 - [Letterboxd][url-letterboxd] (Film Ratings)
-
+-
 - [osu!][url-osu]
 - [Hypixel Skyblock Stats][url-skyblock]
 
@@ -81,7 +81,7 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 - Font: Calibri / Vardana (Monospace)
 - Icon: My Transformice avatar from the [Dressroom][url-dressroom]
 - Secondary Icon: Shaman Feather and various menu icons from [Transformice][url-tfm] / [(Steam Store Page)][url-tfmsteam] from the [Fandom Wiki][url-tfmwiki]
-
+-
 - Twitch Commands From: [Nightbot][url-nightbot], [StreamElements][url-streamelements] and [osu!np][url-osunp] (osu! Now Playing)
 - Twitch Alerts/Donations Managed Through: [StreamElements][url-streamelements]
 - Twitch Panels From: [Nerd or Die][url-nerdordie] and edited with [FireAlpaca][url-firealpaca]
@@ -99,12 +99,13 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 - Recorded At (Local): 60 fps, 5000 bitrate (1080p)
 - Videos Edited With: [Adobe Premiere Pro CC][url-premiere] (2024)
 - Thumbnails/Images Edited With: [FireAlpaca][url-firealpaca]
+-
 - Keyboard Overlay (Speedruns): [Nohboard (Rewrite Version)][url-nohboard]
 - Keyboard Overlay (Rhythm Games): [KeysPerSecond][url-kps]
 - Controller Overlay: [Open Joystick Display (sidschingis' Updated Fork)][url-ojd] | [Hori Taiko Drum][url-taikodrum] (Mapped to keyboard controls with JoyToKey.)
 - Controller To Keyboard Controls: [JoyToKey][url-jtk]
 - Discord VC Overlay: [Discord’s Streamkit for OBS][url-obsdiscord]
-
+-
 - osu! Setup: [osu! Profile][url-osu]
 - Geometry Dash Overlay: [GDMegaOverlay][url-gdm]
 
@@ -114,18 +115,21 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 
 <details><summary>PC Hardware</summary>
 
+- 1st Laptop (Image): [2015-2019][url-pc1]
+- 2nd Laptop (Image): [2019-2023][url-pc2]
+-
 - PC: [IPASON AMD Ryzen 5 5600G][url-pc] (GeForce RTX 3060) | Windows 11
 - Monitor (Main): [Asus Tuf VG249Q1A][url-monitor1]
 - Monitor (Secondary): [Dell 2208WFPT][url-monitor2]
 - Webcam: [Logitech HD Pro Webcam C920][url-webcam]
-- Mic: [Logitech Blue Yeti][url-mic] (In OBS I have 3 audio filters to make it sound less windy. [(Here's the guide I used.)][url-micguide])
-
+- Mic: [Logitech Blue Yeti][url-mic] (In OBS I have 3 audio filters to make it sound less windy. [Here's the guide I used.][url-micguide])
+-
 - Headphones: [Audiotechnica M40x][url-headphones]
 - Mouse: [Razer Naga Trinity][url-mouse]
 - Mouse (DPI): DPI: Stage 1: 100 | Stage 2 (Main): 900 | Stage 3: 1100
 - Keyboard: [HyperX Alloy Origins Core][url-keyboard] (Tenkeyless)
 - Controller(s): [8Bitdo Ultimate 2][url-controller]
-
+-
 - VR Headset: [Meta Quest 3][url-vr]
 - VR Headstrap: [BOBOVR M3 Pro][url-vrheadstrap] with [BOBOVR Twin Charger Station/Dock for B2][url-vrheadstrapbattery]
 
@@ -143,7 +147,7 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 
 <details><summary>Mobile (Android) Hardware</summary>
 
-- Timed With: [Floating Speedrun Timer][phonetimer] / In-Game-Time / [LiveSplit][url-livesplit]
+- Timed With: [Floating Speedrun Timer][url-phonetimer] / In-Game-Time / [LiveSplit][url-livesplit]
 - Recorded With: Internal recorder
 - Played On: [Samsung Galaxy S24][url-phone]
 - Games Played Through: [Google Play Store][url-playstore]
@@ -224,6 +228,9 @@ It isn’t necessary for the enjoyment of my content and I don't want to show my
 [url-webcam]: <https://www.amazon.com/dp/B085TFF7M1>
 [url-mic]: <https://www.amazon.com/dp/B002VA464S>
 [url-micguide]: <https://medium.com/p/17214d967fe0>
+
+[url-pc1]: <https://imgur.com/a/dRDIUVC>
+[url-pc2]: <https://imgur.com/a/2Vr0IrW>
 
 [url-headphones]: <https://www.amazon.com/dp/B00HVLUR54>
 [url-mouse]: <https://www.amazon.com//dp/B07D4C8H1W/>
