@@ -12,7 +12,7 @@
 ## FAQ
 
 > ### What should we call you?
-I go by Shaman online. I created a Transformice account and made the "nickname" something easy to remember because I didn't realize that the nickname was actually the screen name. At first it was "silly" with 5 L's. (sillllly, if you want to look it up.)  So, my second account was named "Imaproshaman" because 12 year old me thought that people would know I was "good at the game by default". I’ve been playing since June 16th, 2011.
+I go by Shaman online. I created a Transformice account and made the "nickname" something easy to remember because I didn't realize that the nickname was actually the screen name. At first it was "silly" with 5 L's. (sillllly, if you want to look it up.)  My second account was named "Imaproshaman" because 12 year old me thought that people would know I was "good at the game by default". I’ve been playing since June 16th, 2011.
 
 > ### How old are you and where are you from?
 February 10th, 1999. Oregon, US.
@@ -20,31 +20,35 @@ February 10th, 1999. Oregon, US.
 > ### Is that what your voice "actually" sounds like/are you a girl?
 I’m just me. I go by they/them pronouns.
 
+<!----------------------------------------------------------------------->
+
 > ### When did you start streaming?
 I streamed as far back as somewhere around early/pre-2016. I don't take it very seriously. If I force myself to do it and adhere to a schedule, then it would feel like a job. That's not very fun for me.
 
-> ### Why did you start speedrunning?
-Casually, I’ve been replaying games since I was a kid since I rarely got new games except on special occasions, like a birthday or a holiday. So I just played what I had. Around the latter half of 2017, I joined the [![img-mec]][url-mec] after being referred to it by a friend, [![img-steveglowplunk]][url-steveglowplunk]. Then I bought the game Refunct on Steam and had 100% the achievements. They added some more and one of them required beating the game under 4 minutes, which meant that I had to learn the basic Any% route. I loved how fun it was so I kept doing it.
-
-> ### I have an osu! related question?
-Everything about me relating to osu!, including my setup, can be found on my [![img-osu]][url-osu].
-
-> ### Why don’t you speedrun/play X/why are you doing X thing Y way?
-There’s probably a reason for it but I’ll try my best to answer it if you ask.
-
-> ### What’s your opinion on/favorite X?
-Feel free to ask anything like this but expect a passionately detailed response!
-
 > ### Why don’t you have a facecam?
 I don't want to show myself like that. I can list several examples of successful streamers who don’t even use it. I'm okay with showing a handcam though and I think more people should, especially for rhythm games and speedrunning. I always think those are really interesting.
+
+> ### Why did you start speedrunning?
+Casually, I’ve been replaying games since I was a kid since I rarely got new games except on special occasions, like a birthday or a holiday. So I just played what I had. Around the latter half of 2017, I joined the [![img-mec]][url-mec] after being referred to it by a friend, [![img-steveglowplunk]][url-steveglowplunk]. (Here's my [![img-mecmod]][url-mecmod].)
+
+Then I bought the game Refunct on Steam and had 100% the achievements. They added some more and one of them required beating the game under 4 minutes, which meant that I had to learn the basic Any% route. I loved how fun it was so I kept doing it.
 
 > ### What marathons have you been a part of?
 - [![img-whamathon]][url-whamathon] (2nd, 3rd & 4th - 2018, 2019 & 2020)
 - [![img-kots]][url-kots] (1st - 2019)
 - [![img-12hc]][url-12hc] (11th - 2020)
 
-> ### Misc.
-- [![img-mecmod]][url-mecmod]
+<!----------------------------------------------------------------------->
+
+> ### I have an osu! related question?
+Everything about me relating to osu!, including my setup, can be found on my [![img-osu]][url-osu].
+
+<!----------------------------------------------------------------------->
+
+> ### What are your hobbies/interests?
+Of course, I really like speedrunning, but also a few other things. I'm really into [![img-scp]][url-scp]. I think the writing style/quality, world building and ideas are really interesting to me. My favorite genres for media in general are things that really make me think after I've watched/read/listened to them. Things like alternate dimensions/timelines and found footage movies. I also find the behind-the-scenes for things really interesting.
+
+I started writing my dreams down in 2015 because they always play out like a movie. I haven't compiled them yet but hopefully I can turn them into a book or a wiki page at some point. Ask me about any of these things and I'd be glad to rant about my love for them!
 
 ## Social Links
 
@@ -53,14 +57,14 @@ I don't want to show myself like that. I can list several examples of successful
 - [![img-discord]][url-discord] (Contact me @ Imaproshaman)
 - [![img-yt]][url-yt]
 - [![img-twitch]][url-twitch]
-- [![img-cf]][url-cf]
+- [![img-cf]][url-cf] (My Modpack)
 -
 - [![img-steam]][url-steam]
 - [![img-steamhunters]][url-steamhunters] (Main Steam Achievements)
 - [![img-steamtrue]][url-steamtrue] (Secondary Steam Achievements)
 - [![img-src]][url-src]
 -
-- [![img-spotify]][url-spotify]
+- [![img-spotify]][url-spotify] (Main Playlist)
 - [![img-lastfm]][url-lastfm] (Music History)
 - [![img-rym]][url-rym] (Music Ratings)
 - [![img-letterboxd]][url-letterboxd] (Film Ratings)
@@ -152,11 +156,13 @@ I don't want to show myself like that. I can list several examples of successful
 
 ## Credits
 
-- README Markdown Formatting Learning: [![img-fo]][url-fo]
+- README Markdown Formatting Learning/Inspiration: [![img-fo]][url-fo]
 - Badges: [![img-shields]][url-shields]
 
+<!----------------------------------------------------------------------->
+
 <!-- URLs | Misc. -->
-[url-cf]: <https://www.curseforge.com/members/imaproshaman>
+[url-cf]: <https://www.curseforge.com/minecraft/modpacks/objective-overdrive>
 
 <!-- Images | Misc. -->
 [img-cf]: <https://img.shields.io/badge/Curseforge-%23E85C14?style=flat&logo=curseforge&logoColor=white>
@@ -205,6 +211,18 @@ I don't want to show myself like that. I can list several examples of successful
 
 <!----------------------------------------------------------------------->
 
+<!-- URLs | Social - MEC -->
+[url-mec]: <https://discord.gg/012yZfNtL6swfNOO5>
+[url-steveglowplunk]: <https://www.youtube.com/@SteveGlowplunk>
+[url-mecmod]: <http://www.nexusmods.com/mirrorsedgecatalyst/mods/75>
+
+<!-- Images | Social - MEC -->
+[img-mec]: <https://img.shields.io/badge/Mirror's%20Edge%20Catalyst%20Discord%20Server-%235865F2?style=flat&logo=discord&logoColor=white>
+[img-steveglowplunk]: <https://img.shields.io/badge/SteveGlowPlunk-%23FF0000?style=flat&logo=youtube&logoColor=white>
+[img-mecmod]: <https://img.shields.io/badge/Mirror's%20Edge%20Catalyst%20Mod-%23E85C14?style=flat&logo=nexusmods&logoColor=white>
+
+<!----------------------------------------------------------------------->
+
 <!-- URLs | Social - Marathons -->
 [url-whamathon]: <https://www.twitch.tv/mobilespeedrun>
 [url-kots]: <https://www.twitch.tv/kickoffthesummer>
@@ -217,15 +235,11 @@ I don't want to show myself like that. I can list several examples of successful
 
 <!----------------------------------------------------------------------->
 
-<!-- URLs | Social - MEC -->
-[url-mec]: <https://discord.gg/012yZfNtL6swfNOO5>
-[url-steveglowplunk]: <https://www.youtube.com/@SteveGlowplunk>
-[url-mecmod]: <http://www.nexusmods.com/mirrorsedgecatalyst/mods/75>
+<!-- URLs | Social - Hobbies -->
+[img-scp]: <https://img.shields.io/badge/SCP-%231c1d1f?style=flat&logo=scp&logoColor=white>
 
-<!-- Images | Social - MEC -->
-[img-mec]: <https://img.shields.io/badge/Mirror's%20Edge%20Catalyst%20Discord%20Server-%235865F2?style=flat&logo=discord&logoColor=white>
-[img-steveglowplunk]: <https://img.shields.io/badge/SteveGlowPlunk-%23FF0000?style=flat&logo=youtube&logoColor=white>
-[img-mecmod]: <https://img.shields.io/badge/Mirror's%20Edge%20Catalyst%20Mod-%23E85C14?style=flat&logo=nexusmods&logoColor=white>
+<!-- URLs | Social - Hobbies -->
+[url-scp]: <http://scp-wiki.wikidot.com>
 
 <!----------------------------------------------------------------------->
 
